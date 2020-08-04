@@ -1,7 +1,6 @@
 //   PROJECT PART 2 
 //   CPSC 355 Spring 2020
 //   Submitted by : Priyavart Rajain
-//   UCID 30074184 
 
 		.data											/*data section, writing to memory*/
 
